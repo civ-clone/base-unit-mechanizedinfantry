@@ -1,7 +1,7 @@
 {
-  "name": "@civ-clone/base-unit-mechanizedinfanty",
+  "name": "@civ-clone/base-unit-mechanizedinfantry",
   "version": "0.1.0",
-  "repository": "git@github.com:civ-clone/base-unit-mechanizedinfanty.git",
+  "repository": "git@github.com:civ-clone/base-unit-mechanizedinfantry.git",
   "keywords": [
     "typescript",
     "civilization"
